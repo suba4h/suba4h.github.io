@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/subash/static/css/main.f1f59fdf.css",
-    "main.js": "/subash/static/js/main.25ec521e.js",
+    "main.css": "/subash/static/css/main.7be4b146.css",
+    "main.js": "/subash/static/js/main.9c3099cc.js",
     "static/js/787.550f1592.chunk.js": "/subash/static/js/787.550f1592.chunk.js",
     "static/media/prototype1.png": "/subash/static/media/prototype1.f7c8fb6d0d7daaf823a6.png",
     "static/media/work-1.png": "/subash/static/media/work-1.84d1f8bb41e5b5935f37.png",
@@ -24,12 +24,12 @@
     "static/media/work-10.png": "/subash/static/media/work-10.4b621d6b013cf89916de.png",
     "static/media/profile.png": "/subash/static/media/profile.7c249f6273fec04eb290.png",
     "index.html": "/subash/index.html",
-    "main.f1f59fdf.css.map": "/subash/static/css/main.f1f59fdf.css.map",
-    "main.25ec521e.js.map": "/subash/static/js/main.25ec521e.js.map",
+    "main.7be4b146.css.map": "/subash/static/css/main.7be4b146.css.map",
+    "main.9c3099cc.js.map": "/subash/static/js/main.9c3099cc.js.map",
     "787.550f1592.chunk.js.map": "/subash/static/js/787.550f1592.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1f59fdf.css",
-    "static/js/main.25ec521e.js"
+    "static/css/main.7be4b146.css",
+    "static/js/main.9c3099cc.js"
   ]
 }
